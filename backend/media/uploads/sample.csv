@@ -1,0 +1,123 @@
+name,city,energy_consumption,date,price
+Alice,New York,120.5,2025-08-01,15.2
+Bob,Los Angeles,110.3,2025-08-02,14.8
+Charlie,Chicago,98.7,2025-08-03,13.5
+David,Houston,105.2,2025-08-04,14.1
+Eve,Phoenix,115.6,2025-08-05,15.0
+Frank,Philadelphia,123.4,2025-08-06,15.5
+Grace,San Antonio,99.9,2025-08-07,13.9
+Heidi,San Diego,108.2,2025-08-08,14.3
+Ivan,Dallas,112.7,2025-08-09,14.7
+Judy,San Jose,117.8,2025-08-10,15.1
+Mallory,Austin,121.0,2025-08-11,15.3
+Niaj,Jacksonville,102.5,2025-08-12,14.0
+Olivia,Fort Worth,109.6,2025-08-13,14.4
+Peggy,Columbus,113.8,2025-08-14,14.9
+Sybil,Charlotte,119.2,2025-08-15,15.4
+Trent,San Francisco,101.7,2025-08-16,13.8
+Victor,Indianapolis,106.9,2025-08-17,14.2
+Walter,Seattle,118.3,2025-08-18,15.2
+Xavier,Denver,104.1,2025-08-19,14.1
+Yvonne,Washington,116.5,2025-08-20,15.0
+Zara,Boston,120.2,2025-08-21,15.3
+Aaron,El Paso,103.4,2025-08-22,14.0
+Bella,Nashville,107.6,2025-08-23,14.3
+Cody,Detroit,114.9,2025-08-24,14.8
+Diana,Oklahoma City,122.1,2025-08-25,15.5
+Ethan,Las Vegas,100.8,2025-08-26,13.7
+Fiona,Portland,109.2,2025-08-27,14.4
+George,Memphis,115.7,2025-08-28,15.1
+Hannah,Louisville,121.3,2025-08-29,15.4
+Isaac,Baltimore,102.9,2025-08-30,14.0
+Julia,Milwaukee,108.5,2025-08-31,14.3
+Kevin,Albuquerque,113.1,2025-09-01,14.7
+Laura,Tucson,119.6,2025-09-02,15.2
+Mason,Fresno,105.4,2025-09-03,14.1
+Nora,Sacramento,117.2,2025-09-04,15.0
+Oscar,Kansas City,101.3,2025-09-05,13.8
+Paula,Long Beach,106.7,2025-09-06,14.2
+Quinn,Mesa,118.9,2025-09-07,15.2
+Rita,Atlanta,104.5,2025-09-08,14.1
+Sam,Colorado Springs,116.1,2025-09-09,15.0
+Tina,Raleigh,120.7,2025-09-10,15.3
+Uma,Omaha,103.8,2025-09-11,14.0
+Vera,Miami,107.9,2025-09-12,14.3
+Will,Oakland,114.2,2025-09-13,14.8
+Xena,Minneapolis,122.4,2025-09-14,15.5
+Yuri,Tulsa,100.5,2025-09-15,13.7
+Zane,Arlington,109.0,2025-09-16,14.4
+Abby,New Orleans,115.3,2025-09-17,15.1
+Ben,Wichita,121.6,2025-09-18,15.4
+Cara,Cleveland,102.2,2025-09-19,14.0
+Dean,Tampa,108.8,2025-09-20,14.3
+Ella,Bakersfield,113.4,2025-09-21,14.7
+Finn,Aurora,119.9,2025-09-22,15.2
+Gina,Anaheim,105.7,2025-09-23,14.1
+Harry,Honolulu,117.5,2025-09-24,15.0
+Ivy,Lexington,101.6,2025-09-25,13.8
+Jack,Stockton,106.8,2025-09-26,14.2
+Kara,Corpus Christi,118.6,2025-09-27,15.2
+Liam,Henderson,104.3,2025-09-28,14.1
+Mia,Riverside,116.7,2025-09-29,15.0
+Noah,St. Louis,120.9,2025-09-30,15.3
+Owen,Greensboro,103.1,2025-10-01,14.0
+Paige,Chandler,107.3,2025-10-02,14.3
+Quincy,Plano,114.6,2025-10-03,14.8
+Rose,Lincoln,122.8,2025-10-04,15.5
+Sean,Orlando,100.2,2025-10-05,13.7
+Tara,Irvine,109.4,2025-10-06,14.4
+Umar,Toledo,115.9,2025-10-07,15.1
+Violet,Jersey City,121.2,2025-10-08,15.4
+Wade,Chula Vista,102.7,2025-10-09,14.0
+Ximena,Durham,108.3,2025-10-10,14.3
+Yosef,Fort Wayne,113.9,2025-10-11,14.7
+Zelda,St. Petersburg,120.4,2025-10-12,15.2
+Aiden,Laredo,105.1,2025-10-13,14.1
+Bianca,Buffalo,117.3,2025-10-14,15.0
+Cameron,Madison,101.9,2025-10-15,13.8
+Daisy,Lubbock,106.5,2025-10-16,14.2
+Eli,Chesapeake,118.7,2025-10-17,15.2
+Faith,Scottsdale,104.7,2025-10-18,14.1
+Gavin,North Las Vegas,116.3,2025-10-19,15.0
+Hazel,Irving,120.6,2025-10-20,15.3
+Ian,Fremont,103.6,2025-10-21,14.0
+Jenna,Gilbert,107.8,2025-10-22,14.3
+Kyle,Hialeah,114.1,2025-10-23,14.8
+Lara,Garland,122.3,2025-10-24,15.5
+Megan,Richmond,100.9,2025-10-25,13.7
+Nate,Boise,109.1,2025-10-26,14.4
+Olga,Baton Rouge,115.5,2025-10-27,15.1
+Paul,Des Moines,121.8,2025-10-28,15.4
+Quinn,Spokane,102.4,2025-10-29,14.0
+Rosa,San Bernardino,108.6,2025-10-30,14.3
+Steve,Modesto,113.2,2025-10-31,14.7
+Tina,Fontana,119.7,2025-11-01,15.2
+Uma,Columbus,105.9,2025-11-02,14.1
+Vera,Montgomery,117.1,2025-11-03,15.0
+Will,Shreveport,101.5,2025-11-04,13.8
+Xander,Akron,106.3,2025-11-05,14.2
+Yara,Grand Rapids,118.4,2025-11-06,15.2
+Zack,Huntington Beach,104.9,2025-11-07,14.1
+Ava,Salt Lake City,116.8,2025-11-08,15.0
+Blake,Tallahassee,121.1,2025-11-09,15.3
+Cara,Amarillo,102.6,2025-11-10,14.0
+Derek,Oxnard,108.4,2025-11-11,14.3
+Ella,Little Rock,113.7,2025-11-12,14.7
+Finn,Moreno Valley,120.0,2025-11-13,15.2
+Gina,Huntington,105.6,2025-11-14,14.1
+Harry,Glendale,117.4,2025-11-15,15.0
+Ivy,Ontario,101.8,2025-11-16,13.8
+Jack,Knoxville,106.6,2025-11-17,14.2
+Kara,Columbia,118.8,2025-11-18,15.2
+Liam,Fort Lauderdale,104.4,2025-11-19,14.1
+Mia,Augusta,116.6,2025-11-20,15.0
+Noah,Chattanooga,120.8,2025-11-21,15.3
+Owen,Mobile,103.2,2025-11-22,14.0
+Paige,Akron,107.4,2025-11-23,14.3
+Quincy,Grand Prairie,114.7,2025-11-24,14.8
+Rose,Brownsville,122.9,2025-11-25,15.5
+Sean,Newport News,100.3,2025-11-26,13.7
+Tara,Overland Park,109.5,2025-11-27,14.4
+Umar,Providence,116.0,2025-11-28,15.1
+Violet,Tempe,121.3,2025-11-29,15.4
+Wade,McKinney,102.8,2025-11-30,14.0
